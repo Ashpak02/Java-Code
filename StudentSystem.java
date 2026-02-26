@@ -42,7 +42,7 @@ public class StudentSystem {
 
         for (int i = 0; i < count; i++) {
             System.out.println("\nStudent #" + (i + 1));
-            System.out.print("Enter name: ");
+            System.out.print("Enter name brother: ");
             String name = input.nextLine();
             
             System.out.print("Enter score (0-100): ");
